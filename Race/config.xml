@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<race distance = "100">	
+		<vehicle type="motorcycle" maxspeed="250" penchance="0.01" sidecar="true">HayabusaSlow</vehicle>
+		<vehicle type="truck" maxspeed="100" penchance="0.005" cargoweight="2500">Man</vehicle>
+		<vehicle type="car" maxspeed="200" penchance="0.02" passengers="4" >BMW 530i</vehicle>
+		<vehicle type="car" maxspeed="140" penchance="0.02" passengers="2" >Gaz 31029</vehicle>
+		<vehicle type="motorcycle" maxspeed="320" penchance="0.0123" sidecar="false">Hayabusa</vehicle>			
+</race>
